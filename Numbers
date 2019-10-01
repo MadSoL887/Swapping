@@ -13,6 +13,6 @@ int main()
     long long int n,m;
     cin>>n>>m;
     swap(&n,&m);
-    cout<<n<<endl<<m;
+    cout<<n<<endl<<m<<endl;
     return 0;
 }
